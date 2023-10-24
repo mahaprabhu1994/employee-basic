@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/softwares/jars/jakarta-struts-1.2.2/jakarta-struts-1.2.2/dist/contrib/struts-el/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/jars/jakarta-struts-1.2.2/jakarta-struts-1.2.2/dist/contrib/struts-el/lib/standard.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/jars/jakarta-struts-1.2.2/jakarta-struts-1.2.2/dist/contrib/struts-el/lib/struts-el.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/jars/jakarta-struts-1.2.2/jakarta-struts-1.2.2/dist/lib/antlr.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/jars/jakarta-struts-1.2.2/jakarta-struts-1.2.2/dist/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/jars/jakarta-struts-1.2.2/jakarta-struts-1.2.2/dist/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/jars/jakarta-struts-1.2.2/jakarta-struts-1.2.2/dist/lib/commons-digester.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/jars/jakarta-struts-1.2.2/jakarta-struts-1.2.2/dist/lib/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/jars/jakarta-struts-1.2.2/jakarta-struts-1.2.2/dist/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/jars/jakarta-struts-1.2.2/jakarta-struts-1.2.2/dist/lib/commons-validator.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/jars/jakarta-struts-1.2.2/jakarta-struts-1.2.2/dist/lib/jakarta-oro.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/jars/jakarta-struts-1.2.2/jakarta-struts-1.2.2/dist/lib/struts.jar"/>
+	<classpathentry kind="lib" path="D:/softwares/jars/javax.servlet-3.0.jar/javax.servlet-3.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
